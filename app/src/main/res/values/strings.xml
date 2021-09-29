@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NYTimes Demo</string>
+    <string name="more_lbl"><![CDATA[More >>]]></string>
+    <string name="search_lbl">Search</string>
+</resources>
